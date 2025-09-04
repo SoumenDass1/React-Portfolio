@@ -64,7 +64,25 @@ body {
   justify-content: space-around;
   align-items: center;
   color: #fff;
-  flex-direction: column;
+  flex-direction: row;
+}
+
+.text-box{
+    animation: go-left linear;
+    animation-timeline: view();
+    animation-range: exit 0%;
+}
+
+@keyframes go-left{
+    from{
+        opacity: 1;
+        transform: translateY(0);
+    }
+
+    to{
+        opacity: 0;
+        transform:  translateY(-100px);
+    }
 }
 
 .text-box h2 {
@@ -88,3 +106,5 @@ body {
     width: 500px;
     border-radius: 50%;
 }
+
+
