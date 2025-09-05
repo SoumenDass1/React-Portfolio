@@ -107,4 +107,7 @@ body {
     border-radius: 50%;
 }
 
+html {
+  scroll-behavior: smooth;
+}
 

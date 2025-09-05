@@ -28,7 +28,7 @@
 
     animation: fill-text linear forwards;
     animation-timeline: view();
-    animation-range: entry 0% cover 50%; /* center tak aate hi fill hoga */
+    animation-range: entry 0% cover 80%; /* center tak aate hi fill hoga */
 }
 
 @keyframes fill-text {
