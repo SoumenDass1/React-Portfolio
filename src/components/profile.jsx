@@ -41,7 +41,7 @@ function Profile() {
                     <div className="about-box">
                         <h1>About Me</h1>
                         <div className="about-me">
-                            <p>I am an aspiring web developer exploring AI & Backend.</p>
+                            <p>I am an aspiring web developer.</p>
                         </div>
                     </div>
                 </section>
