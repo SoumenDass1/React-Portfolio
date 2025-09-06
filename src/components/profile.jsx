@@ -47,7 +47,7 @@ function Profile() {
                     <div className="text-box">
                         <h2>Hello, I am</h2>
                         <h1>Soumen Dass</h1>
-                        <p>Aspiring Web Developer | Exploring AI & Backend</p>
+                        <p>Student At Newton School Of Technology | Aspiring Web Developer | Exploring AI & Backend</p>
                     </div>
 
                     <div className="image">
