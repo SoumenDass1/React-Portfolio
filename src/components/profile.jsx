@@ -46,7 +46,7 @@ function Profile() {
                         <h1>About Me</h1>
                         <div className="about-empty">
                             <div className="about-me">
-                                <p><span></span></p>
+                                <p>I’m currently pursuing a degree in Computer Science at Newton School of Technology. I’m passionate about learning new technologies and solving problems through coding. I enjoy working on projects that challenge me and help me grow both technically and personally. I believe in staying curious, consistent, and open to learning from every experience. With every project, I aim to improve my skills and contribute meaningfully while building something.</p>
                             </div>
                         </div>
                     </div>
