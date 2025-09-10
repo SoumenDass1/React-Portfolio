@@ -59,6 +59,19 @@ function Profile() {
                             <div className="skill-container-1">
                                 <h3>pyhton</h3>
                             </div>
+                            <div className="skill-container-1">
+                                <h3>HTML</h3>
+                            </div>
+                            <div className="skill-container-1">
+                                <h3>CSS</h3>
+                            </div>
+                            <div className="skill-container-1">
+                                <h3>JavaScript</h3>
+                            </div>
+                            <div className="skill-container-1">
+                                <h3>React</h3>
+                            </div>
+
                         </div>
                     </div>
                 </section>
