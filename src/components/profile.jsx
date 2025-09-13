@@ -69,7 +69,7 @@ function Profile() {
                                 <h3>JavaScript</h3>
                             </div>
                             <div className="skill-container-5">
-                                <h3>React</h3>
+                                <h3>React JS</h3>
                             </div>
 
                         </div>
