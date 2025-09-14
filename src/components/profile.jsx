@@ -32,7 +32,7 @@ function Profile() {
                         <h1>Soumen Dass</h1>
                         <p>
                             Student At Newton School Of Technology |<br />
-                            Aspiring Web Developer | Exploring AI & Backend
+                            Aspiring Web Developer | Exploring UI/UX
                         </p>
                     </div>
 
@@ -74,6 +74,10 @@ function Profile() {
 
                         </div>
                     </div>
+                </section>
+
+                <section className="projects" id="project">
+                    
                 </section>
             </main>
         </>
